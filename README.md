@@ -1,4 +1,4 @@
-# THU-JAVA_and_Object_Oriented_Programming
+# THU-Java_programming
 2022 fall
 
 ## 附录
