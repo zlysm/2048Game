@@ -1,6 +1,20 @@
 # THU-Java_programming
 2022 fall
 
+# Usage
+Download the `2048.jar` file in the release column
+```
+$ java -jar 2048.jar
+```
+
+Envirment
+```
+$ java --version
+java 18.0.2.1 2022-08-18
+Java(TM) SE Runtime Environment (build 18.0.2.1+1-1)
+Java HotSpot(TM) 64-Bit Server VM (build 18.0.2.1+1-1, mixed mode, sharing)
+```
+
 ## 附录
 ### 清华大学学生纪律处分管理规定实施细则
 #### 第六章　学术不端、违反学习纪律的行为与处分
